@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'D:/JavaGonzaloNivel2/03 - JavaDoc en Java 03 - NetBeans/ejemplojavadoc/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/JavaGonzaloNivel2/03 - JavaDoc en Java 03 - NetBeans/ejemplojavadoc/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ejemplojavadoc 1.0 API'
+-use
+-version
+-windowtitle
+'ejemplojavadoc 1.0 API'
+ejemplojavadoc
+es.gonzalo.ejemplojavadoc
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\src\main\java = 1713337954526
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\allclasses-index.html = 1713340179929
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\allpackages-index.html = 1713340179934
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\copy.svg = 1713340179987
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\element-list = 1713340179809
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\help-doc.html = 1713340179976
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\index-all.html = 1713340179959
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\index.html = 1713340179912
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\link.svg = 1713340179990
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\member-search-index.js = 1713340179943
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\module-search-index.js = 1713340179936
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\overview-summary.html = 1713340179968
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\overview-tree.html = 1713340179904
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\package-search-index.js = 1713340179938
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\script.js = 1713340179984
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\search-page.js = 1713340179998
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\search.html = 1713340179965
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\search.js = 1713340179994
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\stylesheet.css = 1713340179981
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\tag-search-index.js = 1713340179945
+D:\JavaGonzaloNivel2\03 - JavaDoc en Java 03 - NetBeans\ejemplojavadoc\target\site\apidocs\type-search-index.js = 1713340179941
